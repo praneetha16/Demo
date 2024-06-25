@@ -1,0 +1,12 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 6A64-9A68
+
+ Directory of C:\Users\skc\OneDrive\Desktop\DemoProject
+
+25-06-2024  11:57    <DIR>          .
+25-06-2024  11:56    <DIR>          ..
+25-06-2024  11:57               402 index.html
+25-06-2024  11:18               371 Python.txt
+25-06-2024  11:57                 0 test.txt
+               3 File(s)            773 bytes
+               2 Dir(s)  43,549,937,664 bytes free
