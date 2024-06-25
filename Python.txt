@@ -1,0 +1,16 @@
+Python
+1. Modules and packages
+2. Variables and datatypes
+3. Strings(Slicing and Methods)
+4. Lists(Indexing and Methods)
+5. Tuples(Methods)
+6. Dictionary(Methods)
+7. Sets(Operations)
+8. Conditional Statements
+9. Operators
+10. Loops(while, for)
+11. Break and Continue statements
+12. Functions and Recursions
+13. Files and its operations
+14. OOPs concepts
+
